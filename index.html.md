@@ -2,7 +2,7 @@
 
 **Coming soon to the App Store.**
 
-Brinestack is a short, tactical dive. Sea creatures hit your towed stack at four heights, and you move the right weapon to meet them while the dive is running.
+Brinestack is tower defense where the tower moves. Your weapons ride on a stack of decks towed along the sea floor. Sea creatures hit it at four heights, and you drag the right deck to meet them while the dive runs.
 
 12 dives free · no ads · no tracking · plays offline
 
@@ -21,8 +21,8 @@ Who attacks which height:
 
 ## What you get
 
-- **Six weapons, each with a reach.** Harpoon, Clamp, Flak, Mortar, Coil and Fan each cover only some heights. Tap a deck to Patch it or Overdrive it with pearls.
-- **36 dives, three seas.** The Shallows, Kelp Deep and the Trench, each deeper and busier. Between dives, the Dock turns shells into Refits, Quick Clamps and a Pearl Pouch.
+- **Six weapons, each with a reach.** Harpoon, Clamp, Flak, Mortar, Coil and Fan each cover only some heights. Spend the pearls you collect mid-dive to repair a deck (Patch) or make it fire faster (Overdrive).
+- **36 dives, three seas.** The Shallows, Kelp Deep and the Trench, each deeper and busier. Between dives, spend your shells at the Dock on tougher decks, faster restacks and extra starting pearls.
 - **Fair by design.** No ads, no account, no tracking. Your progress stays on your phone, and it plays offline.
 
 ## How to play
@@ -37,8 +37,8 @@ Who attacks which height:
 |---|---|---|
 | The Shallows | Dives 1–12, four of the six weapons and the Dock | Free |
 | All Seas | Opens Kelp Deep and the Trench: 24 more dives. One time. | $3.99 |
-| Supply Crate | Optional: 5 Depth Charges and 5 Second Winds | $0.99 |
-| Supply Hold | Optional: 15 Depth Charges and 15 Second Winds | $2.99 |
+| Supply Crate | Optional booster pack: 5 Depth Charges and 5 Second Winds | $0.99 |
+| Supply Hold | Optional booster pack: 15 Depth Charges and 15 Second Winds | $2.99 |
 
 US prices; the App Store shows yours. Bought before? *Settings → Restore Purchases*.
 
