@@ -22,6 +22,10 @@ This is stored on your device only. Deleting the app removes it.
 
 The Shallows (dives 1–12) is free. Purchases (All Seas, Supply Crate, Supply Hold) are handled entirely by the App Store under its own privacy policy. We receive no payment details; the game only learns from the store which purchases exist.
 
+## This website
+
+This site sets no cookies, runs no analytics and loads nothing from other services; its fonts and images are served from the site itself. GitHub Pages, which hosts it, may keep standard server logs.
+
 ## Children
 
 The game collects no personal information from anyone, including children.

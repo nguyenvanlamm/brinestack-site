@@ -30,9 +30,7 @@
 <meta name="twitter:description" content="A short tactical dive for iPhone: restack the right weapon to meet creatures at four heights. No ads, no tracking. Coming soon to the App Store.">
 <meta name="twitter:image" content="https://nguyenvanlamm.github.io/brinestack-site/assets/share-card.jpg">
 <meta name="twitter:image:alt" content="Brinestack: Drag one deck. Save the whole stack. Two dives beside the title.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Martian+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="preload" href="assets/fonts/martianmono_700.ttf" as="font" type="font/ttf" crossorigin>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -97,6 +95,11 @@
 }
 </script>
 <style>
+  /* Fonts are served from this site (SIL OFL 1.1, licences in assets/fonts/): no third-party requests. */
+  @font-face { font-family: "Geist"; src: url("assets/fonts/geist_500.ttf") format("truetype"); font-weight: 400 500; font-display: swap; }
+  @font-face { font-family: "Geist"; src: url("assets/fonts/geist_700.ttf") format("truetype"); font-weight: 600 700; font-display: swap; }
+  @font-face { font-family: "Martian Mono"; src: url("assets/fonts/martianmono_500.ttf") format("truetype"); font-weight: 400 500; font-display: swap; }
+  @font-face { font-family: "Martian Mono"; src: url("assets/fonts/martianmono_700.ttf") format("truetype"); font-weight: 600 700; font-display: swap; }
   :root {
     --trench: #03233F; --deep: #0D335A; --kelp: #145A80; --band: #2F7FA6;
     --hull: #4FA08F; --glass: #89EDD7; --copper: #CB713F; --brass: #E8B44F;
