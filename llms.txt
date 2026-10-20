@@ -1,0 +1,21 @@
+# Brinestack
+
+> Brinestack (on the App Store as "Brinestack: Deep Sea Defense") is a short tactical dive game for iPhone (iOS 15 or later) by Nguyen Van Lam. A stack of pressure-hull decks is towed along the sea floor toward blighted coral nests; each deck carries a weapon that fires on its own, and you drag the right deck to the height where sea creatures attack. Coming soon to the App Store.
+
+- Controls: drag any deck to any slot while the dive runs; the decks in between shift to make room. Tap a deck to Patch or Overdrive it with pearls, earned by defeating creatures. With VoiceOver or Switch Control, each deck offers Move up and Move down actions.
+- Creatures attack by height: crabs and hermits hit the bottom deck (low), sea stars climb the face of the stack, jellyfish sink onto the top deck (high) and, from Kelp Deep on, eels strike the middle deck (mid). The SONAR panel counts creatures by height. Decks in the middle mend while nothing hits them.
+- Six weapons, each with a reach: Harpoon, Clamp, Flak, Mortar, Coil and Fan. Four of them (Harpoon, Clamp, Flak, Mortar) appear in the Shallows; Coil and Fan arrive in Kelp Deep. The stack grows from three decks to six.
+- 36 dives in three seas: the Shallows (dives 1-12, free), Kelp Deep and the Trench (dives 13-36). Crack every nest to clear a dive, earn up to three stars, and spend shells at the Dock on Refits, Quick Clamps and a Pearl Pouch.
+- Free to download. Optional purchases (US prices): All Seas ($3.99, one-time) opens Kelp Deep and the Trench, 24 more dives; Supply Crate ($0.99, 5 Depth Charges and 5 Second Winds) and Supply Hold ($2.99, 15 of each) are optional booster packs. Restore Purchases is in Settings or in the Shop.
+- No ads, no account, no analytics or tracking. Progress is stored only on the device and the game plays offline; the app contacts the App Store only to show prices, make purchases and restore them. The game is in English.
+- Contact: lamnv260398@gmail.com
+
+## Pages
+
+- [Home](https://nguyenvanlamm.github.io/brinestack-site/index.html.md): what the game is, how it plays, the seas, pricing and questions
+- [Support](https://nguyenvanlamm.github.io/brinestack-site/support.html.md): contact, how to play, purchases and restoring, progress
+- [Privacy Policy](https://nguyenvanlamm.github.io/brinestack-site/privacy.html.md): what the game stores on the device and what it never collects
+
+## Optional
+
+- [Website](https://nguyenvanlamm.github.io/brinestack-site/): the HTML landing page
